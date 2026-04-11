@@ -131,21 +131,9 @@ Estos enlaces apuntan a repositorios visibles desde tu perfil público en GitHub
 ## 📫 Conecta conmigo
 
 - **GitHub:** [github.com/mchiroyl](https://github.com/mchiroyl)
-- **LinkedIn:** [Agrega aquí tu LinkedIn real](#)
-- **Email:** [Agrega aquí tu correo real](#)
-- **Portfolio:** [Agrega aquí tu portfolio real](#)
+- **LinkedIn:** [linkedin.com/in/marvin-chiroy-lopreto-aa1a8533a](#)
+- **Email:** [mchiroyl.dev@gmail.com](#)
+- **Telefono:** [4774-6244](#)
 
----
-
-## 💡 Cómo mostrar este README en tu perfil
-
-Para que este README aparezca en tu perfil principal de GitHub:
-
-1. Crea un repositorio llamado exactamente **`mchiroyl`**
-2. Dentro del repositorio agrega este archivo como **`README.md`**
-3. Haz commit y push
-4. GitHub lo mostrará automáticamente en la cabecera de tu perfil
-
----
 
 > Transformando ideas complejas en código limpio, seguro y escalable.
