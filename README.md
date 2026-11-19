@@ -133,7 +133,7 @@ Estos enlaces apuntan a repositorios visibles desde tu perfil público en GitHub
 - **GitHub:** [github.com/mchiroyl](https://github.com/mchiroyl)
 - **LinkedIn:** [linkedin.com/in/marvin-chiroy-lopreto-aa1a8533a](https://www.linkedin.com/in/marvin-chiroy-lopreto-aa1a8533a)
 - **Email:** [mchiroyl.dev@gmail.com](mailto:mchiroyl.dev@gmail.com)
-- **Teléfono:** [4774-6244](tel:+50247746244)
+- **Teléfono:** [3642-7123](tel:+50236427123)
 
 
 > Transformando ideas complejas en código limpio, seguro y escalable.
